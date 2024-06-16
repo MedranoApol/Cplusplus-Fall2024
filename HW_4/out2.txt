@@ -1,0 +1,1 @@
+I AM "in2.txt", I WILL BE BEING COPIED INTO "out2.txt".

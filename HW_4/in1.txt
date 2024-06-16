@@ -1,0 +1,1 @@
+These words should be taken from in "in1.txt" and copied to "out1.txt".
